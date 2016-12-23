@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="pages.pages.BellHomePageTest">
+        <methods>
+          <include name="sectionTwoContentValidation"/>
+          <include name="sectionFiveContentValidation"/>
+          <include name="sectionTwoValidation"/>
+          <include name="headearValidation"/>
+          <include name="start"/>
+          <include name="validateCompanyLogo"/>
+          <include name="sectionFive"/>
+          <include name="sectionFiveimageValidation"/>
+          <include name="sectionOne"/>
+          <include name="sectionOneIotStarterKitPageNavigation"/>
+          <include name="sectionOneIotStarterKitTrackOrderValidation"/>
+          <include name="sectionOneIotStarterKitBellValidation"/>
+          <include name="sectionTwo"/>
+          <include name="sectionOneIotStarterKitEnterReferralCodeValidation"/>
+          <include name="sectionOneIotStarterKitValidation"/>
+          <include name="sectionThree"/>
+          <include name="sectionThreeValidations"/>
+          <include name="validateOperatorLogo"/>
+          <include name="sectionOneIotStarterKitErrorMessageValidation"/>
+          <include name="sectionFourValidation"/>
+          <include name="sectionFour"/>
+          <include name="sectionTwoImageValidation"/>
+        </methods>
+      </class> <!-- pages.pages.BellHomePageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

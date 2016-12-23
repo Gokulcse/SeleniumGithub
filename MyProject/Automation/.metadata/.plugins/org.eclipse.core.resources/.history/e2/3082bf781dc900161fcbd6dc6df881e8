@@ -1,0 +1,17 @@
+package pages;
+
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeClass;
+
+public class NewTest {
+  @Test
+  public void f() {
+	  System.out.println("test method");
+  }
+  @BeforeClass
+  public void beforeClass() {
+	  
+	  System.out.println("sample");
+  }
+
+}

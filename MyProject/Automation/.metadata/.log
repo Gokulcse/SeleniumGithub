@@ -1,0 +1,287 @@
+!SESSION 2016-12-20 12:38:56.430 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_55
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-20 12:40:51.963
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-20 12:40:51.967
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Sada'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-12-20 16:32:24.769 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data G:\Automation -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-12-20 16:32:35.035
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-20 16:33:34.867
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-20 16:33:34.882
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Sada'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-12-21 12:05:17.166 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-21 12:06:51.683
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-21 12:06:51.730
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Sada'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-12-21 21:21:53.789 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-21 21:22:28.792
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-21 21:22:28.854
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Sada'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-12-22 11:21:06.259 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-22 11:22:13.655
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-22 11:22:13.859
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Sada'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-12-22 21:47:02.990 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-22 21:48:50.841
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-22 21:48:50.904
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Sada'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-12-23 01:10:51.747 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-23 01:13:22.007
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-23 01:13:22.257
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Sada'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-12-23 08:20:27.845 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-23 08:21:15.224
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-23 08:21:15.318
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Sada'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-12-23 15:10:57.338 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-23 15:12:02.487
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-23 15:12:02.623
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Sada'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-12-23 19:52:11.694 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-23 19:53:10.883
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-12-23 19:53:10.943
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Sada'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.testng.eclipse 1 0 2016-12-23 20:07:15.218
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar F:\Automation\CustomerSmoke\bin F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar F:\Automation\CustomerSmoke\libs\testng-6.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56603 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse--433158914\testng-customsuite.xml
+java -ea -classpath C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar:F:\Automation\CustomerSmoke\bin:F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar:F:\Automation\CustomerSmoke\libs\testng-6.0.jar org.testng.remote.RemoteTestNG -serport 56603 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse--433158914\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2016-12-23 20:08:29.919
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar F:\Automation\CustomerSmoke\bin F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56652 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse-1365850322\testng-customsuite.xml
+java -ea -classpath C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar:F:\Automation\CustomerSmoke\bin:F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 56652 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse-1365850322\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2016-12-23 20:12:36.251
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar F:\Automation\CustomerSmoke\bin F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 56796 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse-1656475828\testng-customsuite.xml
+java -ea -classpath C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar:F:\Automation\CustomerSmoke\bin:F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 56796 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse-1656475828\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2016-12-23 20:19:09.211
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar F:\Automation\CustomerSmoke\bin F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 57010 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse--1088973019\testng-customsuite.xml
+java -ea -classpath C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar:F:\Automation\CustomerSmoke\bin:F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 57010 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse--1088973019\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2016-12-23 20:19:46.961
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar F:\Automation\CustomerSmoke\bin F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 57032 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse--1685272518\testng-customsuite.xml
+java -ea -classpath C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar:F:\Automation\CustomerSmoke\bin:F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 57032 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse--1685272518\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2016-12-23 20:20:02.877
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar F:\Automation\CustomerSmoke\bin F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 57042 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse--326107895\testng-customsuite.xml
+java -ea -classpath C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar:F:\Automation\CustomerSmoke\bin:F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 57042 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse--326107895\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2016-12-23 20:30:04.754
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar F:\Automation\CustomerSmoke\bin F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 57389 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse-1385326376\testng-customsuite.xml
+java -ea -classpath C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar:F:\Automation\CustomerSmoke\bin:F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 57389 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse-1385326376\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2016-12-23 20:30:48.516
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar F:\Automation\CustomerSmoke\bin F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 57414 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse--877335933\testng-customsuite.xml
+java -ea -classpath C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng-remote.jar:F:\Automation\CustomerSmoke\bin:F:\Automation\CustomerSmoke\libs\selenium-server-standalone-3.0.0-beta4.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\testng.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\jcommander.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\bsh-2.0b4.jar:C:\Users\Sada\Desktop\eclipse\plugins\org.testng.eclipse_6.10.0.201612030230\lib\snakeyaml.jar org.testng.remote.RemoteTestNG -serport 57414 -protocol json -d F:\Automation\CustomerSmoke\test-output C:\Users\Sada\AppData\Local\Temp\testng-eclipse--877335933\testng-customsuite.xml

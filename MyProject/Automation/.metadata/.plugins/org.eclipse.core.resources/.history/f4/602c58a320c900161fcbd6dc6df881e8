@@ -1,0 +1,119 @@
+package pages.pages;
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class BellHomePageTest {
+
+  @BeforeClass
+  public void headearValidation() {
+    
+    System.out.println("sam");
+    
+  }
+
+  @Test
+  public void sectionFive() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionFiveContentValidation() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionFiveimageValidation() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionFour() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionFourValidation() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionOne() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionOneIotStarterKitBellValidation() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionOneIotStarterKitEnterReferralCodeValidation() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionOneIotStarterKitErrorMessageValidation() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionOneIotStarterKitPageNavigation() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionOneIotStarterKitTrackOrderValidation() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionOneIotStarterKitValidation() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionThree() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionThreeValidations() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionTwo() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionTwoContentValidation() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionTwoImageValidation() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void sectionTwoValidation() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void start() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void validateCompanyLogo() {
+    throw new RuntimeException("Test not implemented");
+  }
+
+  @Test
+  public void validateOperatorLogo() {
+    throw new RuntimeException("Test not implemented");
+  }
+}
